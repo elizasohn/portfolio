@@ -1,3 +1,19 @@
-img {
-  content: center;
+body {
+  background-color: #e8ebff;
+}
+h1 {
+  font-size: 72px;
+  text-align: center;
+  background-color: white;
+  margin: 20px;
+  padding: 20px
+}
+header {
+  margin: 20px;
+}
+img.header {
+  float:left;
+}
+p {
+  padding: 10px;
 }

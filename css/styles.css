@@ -8,20 +8,31 @@ h1 {
   margin-bottom: 20px;
   margin-left: 30px;
 }
-h2.about {
-  border-left: 10px;
+ul {
+  line-height: 80%;
+}
+p {
   padding-left: 20px;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  background-color: #d8c7ff;
-  border-radius: 5px;
-  border: 2px gray;
+  padding-bottom: 30px;
+  padding-right: 30px;
+}
+header {
+  background-color: white;
+  border-radius: 15px 15px 15px 15px;
+  border: lightgray 1px;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+p.lead {
+  padding-top: 30px;
 }
 h2 span{
   background-color: #d8c7ff;
   border-radius: 5px;
-  padding:5px 440px 10px 5px;
-  margin: 5px 0px 10px 0px;
+  border: 1px lightgray;
+  padding:0px 420px 10px 15px;
+  margin: 15px 20px 10px 0px;
+  margin-top: 20px;
 }
 h4.title {
   border-left: 10px;
@@ -34,23 +45,11 @@ h4.title {
 }
 h5.header1 {
   padding-top: 75px;
+  padding-left: 75px;
 }
-h5.header2 {
-  padding-top: 55px;
-  text
-}
-
-p {
-  padding-left: 20px;
-  padding-bottom: 30px;
-  padding-right: 30px;
-}
-header {
-  background-color: white;
-  border-radius: 15px 15px 15px 15px;
-  border: lightgray 1px;
-  margin-bottom: 50px;
-  margin-top: 40px;
+h6.header2 {
+  padding-top: 75px;
+  line-height: 110%;
 }
 img.rounded {
   float: left;

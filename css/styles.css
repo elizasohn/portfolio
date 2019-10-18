@@ -4,9 +4,27 @@ body {
 h1 {
   font-size: 72px;
   text-align: left;
-  margin: 20px;
-  padding: 20px
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 30px;
 }
+h4.title {
+  border-left: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: #d8c7ff;
+  border-radius: 5px 5px 5px 5px;
+  border: 2px gray;
+}
+h5.header1 {
+  padding-top: 75px;
+}
+h5.header2 {
+  padding-top: 55px;
+  text
+}
+
 p {
   padding-left: 20px;
   padding-bottom: 30px;
@@ -16,9 +34,10 @@ header {
   border-radius: 15px 15px 15px 15px;
   border: lightgray 1px;
   margin-bottom: 50px;
+  margin-top: 40px;
 }
 img.rounded {
   float: left;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-right: 40px;
 }

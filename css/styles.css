@@ -1,6 +1,15 @@
 body {
   background-color: #e8ebff;
 }
+a:link {
+  color: black;
+}
+a:visited {
+  color: black
+}
+a:hover {
+  color: darkgray;
+}
 h1 {
   font-size: 72px;
   text-align: left;
@@ -26,6 +35,9 @@ header {
 p.lead {
   padding-top: 30px;
   padding-left: 30px;
+}
+p.mb-1 {
+  padding-top: 20px;
 }
 h2 span{
   background-color: #d8c7ff;

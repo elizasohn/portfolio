@@ -9,7 +9,8 @@ h1 {
   padding: 20px
 }
 header {
-  margin: 20px;
+  background-color: white;
+  border-radius: 15px 15px 15px 15px;
 }
 img.header {
   float:left;

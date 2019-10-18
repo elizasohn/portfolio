@@ -39,6 +39,9 @@ p.lead {
 p.mb-1 {
   padding-top: 20px;
 }
+ol.lead {
+  padding-left: 100px;
+}
 h2 span{
   background-color: #d8c7ff;
   border-radius: 5px;

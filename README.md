@@ -15,6 +15,11 @@ _This is a portfolio website for Eliza Sohn. This is her first independent proje
 * _Enjoy the Page_
 * _Give her a good grade_
 
+## GH Pages Link
+
+[GitHub](https://github.com/)
+
+
 ## Support and contact details
 
 _Eliza.Sohn@gmail.com_

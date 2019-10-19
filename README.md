@@ -17,7 +17,7 @@ _This is a portfolio website for Eliza Sohn. This is her first independent proje
 
 ## GH Pages Link
 
-[GitHub](https://github.com/)
+[Eliza Sohn's Portfolio](https://eliza85.github.io/portfolio/)
 
 
 ## Support and contact details
